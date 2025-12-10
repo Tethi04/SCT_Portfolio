@@ -4,7 +4,7 @@ Welcome to my official portfolio for the **SkillCraft Technology Web Development
 
 The portfolio itself is designed with a **"Matcha Green" aesthetic**, utilizing glassmorphism and floating animations to create a soothing user experience.
 
-🔗 **[View Live Portfolio Here](https://tethi04.github.io/SCT_Portfolio/)** *(Note: Replace `SCT_Portfolio` with your actual repo name if different)*
+🔗 **[View Live Portfolio Here](https://tethi04.github.io/SCT_Portfolio/)** 
 
 ---
 
